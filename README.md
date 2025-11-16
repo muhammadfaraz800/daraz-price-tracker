@@ -13,7 +13,7 @@ This project is a web scraper designed to track the prices of products on Daraz,
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/daraz-price-tracker.git
+   https://github.com/muhammadfaraz800/daraz-price-tracker.git
    cd daraz-price-tracker
    ```
 
