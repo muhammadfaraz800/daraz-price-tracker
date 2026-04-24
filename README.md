@@ -54,3 +54,4 @@ This project is a web scraper designed to track the prices of products on Daraz,
 
 - **`productURLs.json`**: This file contains the list of product URLs to be scraped. You can add or remove URLs as needed.
 - **`BROWSER_PATH`**: This constant in `server.js` and `multiple url scrape.server.js` specifies the path to your browser's executable. Make sure this is correctly configured for your system.
+## not ready to use project... suggestions are needed 
